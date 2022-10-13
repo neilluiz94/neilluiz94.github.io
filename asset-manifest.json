@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/neilluiz94.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/neilluiz94.github.io/static/js/main.24ca8ff6.js",
+    "static/js/787.edd59a96.chunk.js": "/neilluiz94.github.io/static/js/787.edd59a96.chunk.js",
+    "static/media/logo.svg": "/neilluiz94.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/neilluiz94.github.io/index.html",
+    "main.073c9b0a.css.map": "/neilluiz94.github.io/static/css/main.073c9b0a.css.map",
+    "main.24ca8ff6.js.map": "/neilluiz94.github.io/static/js/main.24ca8ff6.js.map",
+    "787.edd59a96.chunk.js.map": "/neilluiz94.github.io/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.24ca8ff6.js"
+  ]
+}
